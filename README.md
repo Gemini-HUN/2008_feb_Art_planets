@@ -29,4 +29,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * [2008_feb_Art_planets](https://github.com/Gemini-HUN/2008_feb_Art_planets)
 * Other unique planet mods
 
+## Recommended
+* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits.
+
 **A galaxy reset is recommended before using this mod.**
