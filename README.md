@@ -24,7 +24,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Requirement
 * [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
 
-Compatibility test by **Aster**
+* Compatibility test by **Aster** from Discord
 
 ## Compatible with
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
