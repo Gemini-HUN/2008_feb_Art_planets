@@ -1,5 +1,5 @@
 # 2008_feb_Art_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Art_planets?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Art_planets/latest?style=flat-square&color=d81b60&logo=github)
 
 These planets are replaced:
 * ashtray
